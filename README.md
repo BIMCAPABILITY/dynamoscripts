@@ -8,9 +8,9 @@ Node Coding | Information Box | Updated Script Organization
 
 -----------------------------------------------------------------------
 
-> ## **02.INFORMATION BOXES**
+> ## **02.INFORMATION BOX**
 
-<img src="/_images/general/INFO BOX.png"><!img>
+<img src="_images/general/INFO BOX.png">
 
 -----------------------------------------------------------------------
 
