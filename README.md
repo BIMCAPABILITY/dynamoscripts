@@ -4,7 +4,7 @@ Node Coding | Information Box | Updated Script Organization
 
 > ## **01.NODE CODING**
 
-<img src="/_images/general/NODE CODING.png">
+<img src="_images/general/NODE CODING.png">
 
 -----------------------------------------------------------------------
 
