@@ -10,7 +10,7 @@ Node Coding | Information Box | Updated Script Organization
 
 > ## **02.INFORMATION BOXES**
 
-<img src="/_images/general/INFO BOX.png">
+<img src="/_images/general/INFO BOX.png"><!img>
 
 -----------------------------------------------------------------------
 
